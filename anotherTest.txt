@@ -1,0 +1,1 @@
+This is a commit test to check the integration between GitHub and Jira.
